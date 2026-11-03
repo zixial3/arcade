@@ -1,0 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="-1 -1 242 242" width="240" height="240">
+<rect x="0" y="0" width="240" height="240" fill="#ffffff" stroke="#111111" stroke-width="2"/>
+<rect x="0" y="0" width="48" height="48" fill="#111111"/>
+<rect x="48" y="0" width="48" height="48" fill="#111111"/>
+<rect x="96" y="0" width="48" height="48" fill="none" stroke="#111111" stroke-width="1"/>
+<rect x="144" y="0" width="48" height="48" fill="none" stroke="#111111" stroke-width="1"/>
+<rect x="192" y="0" width="48" height="48" fill="none" stroke="#111111" stroke-width="1"/>
+<rect x="0" y="48" width="48" height="48" fill="#111111"/>
+<rect x="48" y="48" width="48" height="48" fill="none" stroke="#111111" stroke-width="1"/>
+<rect x="96" y="48" width="48" height="48" fill="none" stroke="#111111" stroke-width="1"/>
+<rect x="144" y="48" width="48" height="48" fill="none" stroke="#111111" stroke-width="1"/>
+<rect x="192" y="48" width="48" height="48" fill="none" stroke="#111111" stroke-width="1"/>
+<rect x="0" y="96" width="48" height="48" fill="none" stroke="#111111" stroke-width="1"/>
+<rect x="48" y="96" width="48" height="48" fill="none" stroke="#111111" stroke-width="1"/>
+<rect x="96" y="96" width="48" height="48" fill="none" stroke="#111111" stroke-width="1"/>
+<rect x="144" y="96" width="48" height="48" fill="none" stroke="#111111" stroke-width="1"/>
+<rect x="192" y="96" width="48" height="48" fill="none" stroke="#111111" stroke-width="1"/>
+<rect x="0" y="144" width="48" height="48" fill="none" stroke="#111111" stroke-width="1"/>
+<rect x="48" y="144" width="48" height="48" fill="none" stroke="#111111" stroke-width="1"/>
+<rect x="96" y="144" width="48" height="48" fill="none" stroke="#111111" stroke-width="1"/>
+<rect x="144" y="144" width="48" height="48" fill="none" stroke="#111111" stroke-width="1"/>
+<rect x="192" y="144" width="48" height="48" fill="#111111"/>
+<rect x="0" y="192" width="48" height="48" fill="none" stroke="#111111" stroke-width="1"/>
+<rect x="48" y="192" width="48" height="48" fill="none" stroke="#111111" stroke-width="1"/>
+<rect x="96" y="192" width="48" height="48" fill="none" stroke="#111111" stroke-width="1"/>
+<rect x="144" y="192" width="48" height="48" fill="#111111"/>
+<rect x="192" y="192" width="48" height="48" fill="#111111"/>
+<rect x="96" y="96" width="48" height="48" fill="#cc3318"/>
+</svg>
